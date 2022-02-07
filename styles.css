@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+
+#charles {
+    height: auto;
+    width: 75px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipeimage {
+    height: auto;
+    width: 400px;
+}
